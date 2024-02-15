@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pathum Siyambalapitiya</h1>
 <h3 align="center">A software engineering student from Sri Lanka</h3>
 
-- 🌱 I’m currently learning **Java, JavaFX, MySQL**
+- 🌱 I’m currently learning **Java, JavaFX, MySQL, Hibernate, HTML, CSS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/pathumck](https://github.com/pathumck)
 
