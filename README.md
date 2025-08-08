@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pathum Siyambalapitiya</h1>
-<h2 align="center">A passionate software engineering undergraduate from Sri Lanka</h2>
+<h2 align="center">An intern software engineer & passionate software engineering undergraduate from Sri Lanka</h2>
 
 ---
 
@@ -20,17 +20,31 @@
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo" /> <strong>Bootstrap</strong>
   <img width="20" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwind logo" /> <strong>Tailwind CSS</strong>
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=jquery" height="30" alt="jquery logo" /> <strong>jQuery</strong>
   <img width="20" />
   <img src="https://p.kindpng.com/picc/s/476-4768354_ajax-js-logo-png-transparent-png.png" height="30" alt="ajax logo" /> <strong>AJAX</strong>
 </div>
 
+---
+
+### 🧩 Frontend Frameworks & Libraries
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo" /> <strong>React</strong>
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=angular" height="30" alt="angular logo" /> <strong>Angular</strong>
+</div>
 
 ---
 
 ### 🛠️ Backend Development
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo" /> <strong>Spring</strong>
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo" /> <strong>Node.js</strong>
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo" /> <strong>Express.js</strong>
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=maven" height="30" alt="apachemaven logo" /> <strong>Maven</strong>
   <img width="20" />
